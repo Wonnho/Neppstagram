@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NeppStrgram/static/css/main.9950bf6b.css",
+    "main.js": "/NeppStrgram/static/js/main.54d66133.js",
+    "index.html": "/NeppStrgram/index.html",
+    "main.9950bf6b.css.map": "/NeppStrgram/static/css/main.9950bf6b.css.map",
+    "main.54d66133.js.map": "/NeppStrgram/static/js/main.54d66133.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9950bf6b.css",
+    "static/js/main.54d66133.js"
+  ]
+}
